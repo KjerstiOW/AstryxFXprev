@@ -11,6 +11,8 @@ The Discord bot allows teams to retrieve statistics.
 For instance, a team may want statistics on an opponent for various strategic decisions.
 Since this process is fully automated, there is no middleman and each team gets the up-to-date statistics immediately.
 
+<img width="783" height="590" alt="image" src="https://github.com/user-attachments/assets/7ed4822b-ecc7-4ed5-8b36-a2406f902223" />
+
 ## Components
 ### Desktop GUI
 A JavaFX interface built with FXML and CSS that lets users manage bot behaviour without writing or restarting code.
